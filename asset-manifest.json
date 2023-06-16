@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/aayush-Portfolio/static/css/main.46c0de0e.css",
+    "main.js": "/aayush-Portfolio/static/js/main.793e2c34.js",
+    "static/js/415.4d6acbeb.chunk.js": "/aayush-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/aayush-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/frosh.png": "/aayush-Portfolio/static/media/frosh.fec17af15b9588c3bb84.png",
+    "static/media/ue4.png": "/aayush-Portfolio/static/media/ue4.7b1bfbee7e60ed2dbd4a.png",
+    "static/media/Aayush jaimani 20BCE10538 resume (1).pdf": "/aayush-Portfolio/static/media/Aayush jaimani 20BCE10538 resume (1).f8102cc75ff3054efa62.pdf",
+    "static/media/logo.png": "/aayush-Portfolio/static/media/logo.3860b1337de0404c2099.png",
+    "static/media/take.png": "/aayush-Portfolio/static/media/take.a2c0a72124280f8650c6.png",
+    "static/media/home-main.svg": "/aayush-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/aayush-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/pro4.jpg": "/aayush-Portfolio/static/media/pro4.200ee7963e8b7620a541.jpg",
+    "static/media/home-bg.jpg": "/aayush-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/aayush-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/aayush-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/aayush-Portfolio/index.html",
+    "main.46c0de0e.css.map": "/aayush-Portfolio/static/css/main.46c0de0e.css.map",
+    "main.793e2c34.js.map": "/aayush-Portfolio/static/js/main.793e2c34.js.map",
+    "415.4d6acbeb.chunk.js.map": "/aayush-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/aayush-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46c0de0e.css",
+    "static/js/main.793e2c34.js"
+  ]
+}
